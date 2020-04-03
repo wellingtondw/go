@@ -1,0 +1,4 @@
+export default {
+  secret: "QUHW234U26Y2FJF8214URO2M1FI2FH72F2F2B2871Y384MFDO12M3490",
+  expiresIn: "7d",
+};
