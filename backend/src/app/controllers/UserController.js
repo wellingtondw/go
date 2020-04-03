@@ -17,6 +17,13 @@ class UserController {
       provider,
     });
   }
+
+  async update(req, res) {
+    console.log(req.userId);
+    res.json({
+      success: true,
+    });
+  }
 }
 
 export default new UserController();
